@@ -1,6 +1,6 @@
 var chocolateBars = [ 'snickers','hundred grand','kitkat','skittles' ];
   
-  function addElementToBeginningOfArray(OGArray,addElement)
+  function addElementToBeginningOfArray(array,element)
   {
     var OGArrays = ['OGArray','addElement']; }
   function destructivelyAddElementToEndOfArray(OGArray, addElement) 
