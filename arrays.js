@@ -15,7 +15,7 @@ function addElementToEndofArray(OGArray, addingElement)
 
 function destructivelyAddElementToEndOfArray(OGArrayEnd, addingElement)
 {
-  var addDArrayEnd = ['OGArrayEnd',addingElement...OGArray]
+  var addDArrayEnd = ['OGArrayEnd',addingElement...'OGArray']
 }
 
 }
