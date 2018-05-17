@@ -2,10 +2,11 @@ var chocolateBars = [ 'snickers','hundred grand','kitkat','skittles' ];
   
   function addElementToBeginningOfArray(array,element)
   {
-    var OGArrays = ['OGArray','addElement']; }
+    var OGArrays = [array, element ]; }
+    
   function destructivelyAddElementToEndOfArray(OGArray, addElement) 
   {
-    var dOGArrays = ['OGArray',...addElement]
+    var dOGArrays = [OGArray,...addElement]
   }
   
 function addElementToEndofArray(OGArray, addingElement)
